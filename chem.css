@@ -1,0 +1,53 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.jumbotron {
+     width:80%;
+    height: 100%;
+    background-color: white;
+      overflow: auto;
+position: absolute;
+top: 10%;
+left:10%;
+}
+.box {
+    width: 100%;
+    height: 96.5px;
+    background-color: #d7efba;
+    /*background:url(https://thumb7.shutterstock.com/display_pic_with_logo/867493/530886511/stock-vector-abstract-background-medical-substance-and-molecules-530886511.jpg);*/
+    position: absolute;
+top: 0%;
+left:0%;
+/*position: fixed;*/
+}
+h1 {
+    color: black;
+    /*padding-left: 30%;*/
+    font-size: 50px;
+}
+body {
+    /*background:url(https://us.123rf.com/450wm/smeagorl/smeagorl1411/smeagorl141100134/34028797-illustration-template-of-chemical-experiment-showing-various-tests-being-conducted-in-laboratory-gla.jpg?ver=6);*/
+    background:url(cbg.jpg);
+}
+.b {
+    background-color: #00edff;
+    width: 100%;
+    height: 5%;
+     box-shadow: 5%;
+
+}
+h3 {padding-top: 7px;
+padding-left: 20px;}
+p {
+    padding-left: 15px;
+}
+.r {background-color: #ff0000;
+    width: 100%;
+    height: 5%;
+     box-shadow: 5%;
+
+}

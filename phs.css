@@ -1,0 +1,60 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.jumbotron {
+    width:80%;
+    height: 100%;
+    background-color: white;
+      overflow: auto;
+position: absolute;
+top: 10%;
+left:10%;
+}
+body {
+    background: url(phbg.jpg);
+    /*background: url(https://us.123rf.com/450wm/varka/varka1508/varka150801389/44359055-back-to-school-science-lab-objects-doodle-vintage-style-sketches-seamless-pattern-vector-illustratio.jpg?ver=6);*/
+    /*background:url(https://us.123rf.com/450wm/kytalpa/kytalpa1204/kytalpa120400031/13312698-physical-formulas-and-phenomenons-on-school-board--hand-drawn-illustration.jpg?ver=6);*/
+}
+.box {
+    width: 100%;
+    height: 96.5px;
+    background-color: #193466;
+    /*background:url(https://s-media-cache-ak0.pinimg.com/236x/dd/ed/9f/dded9f46f74a1f87306d8027c8c41a70--abstract-background-design-vector-background.jpg);*/
+    position: absolute;
+top: 0%;
+left:0%;
+/*position: fixed;*/
+overflow: hidden;
+}
+#h1 {
+    color: white;
+    padding-left: 35%;
+    font-size: 50px;
+}
+h3 {padding-top: 7px;
+padding-left: 20px;}
+p {
+    padding-left: 15px;
+}
+.v {
+    background-color: #442d9e;
+    width: 100%;
+    height: 5%;
+     box-shadow: 5%;
+}
+table {
+    border-collapse: collapse;
+}
+.g {
+    background-color: #058228;
+    width: 100%;
+    height: 5%;
+     box-shadow: 5%;
+}
+h2 {
+    padding-left: 20px;
+}
